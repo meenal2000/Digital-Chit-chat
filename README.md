@@ -12,10 +12,10 @@ For the front-end part , I mainly used HTML and Bootstrap . I also added some of
 
 App.js - It is something like a glue which joins everything of our project
 
-chat.js -  adding new chat documents
-setting up a new real-time listener to get new chats
-updating the new user-name
-updating the new room
+chat.js -  adding new chat documents,
+setting up a new real-time listener to get new chats,
+updating the new user-name,
+updating the new room.
 
 ui.js - render chat templates to the DOM
 clear the list of chats when the room changes
